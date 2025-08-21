@@ -4,7 +4,7 @@ This repository contains the source code of my personal CV/Portfolio website.
 
 ## 🌐 Live Website
 Once deployed with GitHub Pages, it will be available at:  
-👉 [https://agustinperalta.github.io](https://agustinperalta.github.io)
+👉 [https://ajperalta-dev.github.io](https://ajperalta-dev.github.io)
 
 ## 📄 About Me
 - Industrial Engineer  
